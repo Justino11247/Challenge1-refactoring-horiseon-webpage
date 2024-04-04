@@ -60,15 +60,6 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
 
 main {
     width: 75%;
@@ -76,34 +67,7 @@ main {
     margin-left: 20px;
 }
 
-aside {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-/* The six pieces of code below were written 3 times each with different classes for each section */
-
-.benefits {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-header {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* The three pieces of code below were written 3 times each with different classes for each section */
 .main-rows {
     margin-bottom: 20px;
     padding: 50px;
@@ -121,6 +85,45 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+/* The three pieces of code below were written 3 times each with different classes for each section */
+
+.benefits {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-header {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
 
 footer {
     padding: 30px;
