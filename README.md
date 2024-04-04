@@ -11,10 +11,12 @@ N/A
 
 ## Usage
 
+
 Each section contains notes about a certain topic that Horiseon may impliment for their customers. It also has a list of benefits to the side that help persuade future customers to use their services. Below is a link to the deployed website:
 
 https://justino11247.github.io/Challenge1-refactoring-horiseon-webpage/
 
+ 
 ## Credits
 
 N/A
